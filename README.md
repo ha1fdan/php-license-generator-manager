@@ -6,4 +6,4 @@ En simple php side hvor du kan administrere og oprette nogle license nøgler. Si
 * Ændre config.php til dine behov.
 * Så er du færdig!
 
-INFO: Admin logginet er: admin | admin
+**INFO: Admin logginet er: admin | admin**
